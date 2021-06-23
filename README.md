@@ -1,4 +1,4 @@
-# GamedevResources
+# Gamedev Resources
 A list of useful gamedev resources I found over time and decided to save
 
 List of topics:
