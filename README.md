@@ -2,7 +2,8 @@
 A list of useful gamedev resources I found over time and decided to save
 
 List of topics:
-* TBA
+* [Marketing](README.md#L12)
+* [User Interface](README.md#L16)
 
 <hr>
 
