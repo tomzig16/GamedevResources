@@ -2,8 +2,10 @@
 A list of useful gamedev resources I found over time and decided to save
 
 List of topics:
-* [Marketing](README.md#L12)
-* [User Interface](README.md#L16)
+* Articles
+  * [Marketing](README.md#L12)
+  * [User Interface](README.md#L16)
+* GDC videos
 
 <hr>
 
@@ -16,3 +18,9 @@ List of topics:
 ### User Interface
 
 * [Game UI Database](https://gameuidatabase.com/index.php) - database with many screenshot of different games and their UIs
+
+<br/>
+
+### GDC Videos
+
+* [Overwatch netcode](https://www.youtube.com/watch?v=W3aieHjyNvw) by Timothy Ford (Blizzard) on youtube
