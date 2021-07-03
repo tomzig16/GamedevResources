@@ -6,6 +6,7 @@ List of topics:
   * [Marketing](README.md#L12)
   * [User Interface](README.md#L16)
 * GDC videos
+* Tools
 
 <hr>
 
@@ -34,3 +35,7 @@ TBA
 
 * [Overwatch netcode](https://www.youtube.com/watch?v=W3aieHjyNvw) by Timothy Ford (Blizzard) on youtube
 * [Intensely Practical Tips for Growing an Indie Studio](https://www.youtube.com/watch?v=MDYh2mnDCIM) by Alexis Kennedy on youtube
+
+## Tools
+
+* [Hacknplan](https://hacknplan.com/category/blog/) - planning tool aimed at game developers
