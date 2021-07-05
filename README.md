@@ -33,9 +33,10 @@ TBA
 
 ## GDC Videos
 
-* [Overwatch netcode](https://www.youtube.com/watch?v=W3aieHjyNvw) by Timothy Ford (Blizzard) on youtube
 * [Intensely Practical Tips for Growing an Indie Studio](https://www.youtube.com/watch?v=MDYh2mnDCIM) by Alexis Kennedy on youtube
+* [Overwatch netcode](https://www.youtube.com/watch?v=W3aieHjyNvw) by Timothy Ford (Blizzard) on youtube
 
 ## Tools
 
+* [Aseprite](https://www.aseprite.org/) - 2D drawing and animating tool
 * [Hacknplan](https://hacknplan.com/category/blog/) - planning tool aimed at game developers
