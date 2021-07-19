@@ -18,6 +18,10 @@ TBA
 
 ## Articles
 
+### Graphics
+
+* [Baking a Realistic Renderer from Scratch and other resources for Beginners in Computer Graphics](http://c0de517e.blogspot.com/2020/11/baking-realistic-renderer-from-scratch.html) by [Angelo Pesce](https://twitter.com/kenpex) from his blog
+
 ### Marketing
 
 * [A Beginner's Guide to Designing Indie Game Store Pages](https://www.gamasutra.com/blogs/JoshBycer/20210618/383756/A_Beginners_Guide_to_Designing_Indie_Game_StorePages.php) by Josh Bycer on Gamasutra
