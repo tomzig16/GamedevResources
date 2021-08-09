@@ -16,7 +16,10 @@ TBA
 
 <hr/>
 
-## Articles
+## Articles and books
+
+### Game programming
+* [Game programming patterns](https://gameprogrammingpatterns.com/) by Robert Nystrom
 
 ### Graphics
 
