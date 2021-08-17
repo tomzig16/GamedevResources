@@ -23,6 +23,7 @@ TBA
 
 ### Graphics
 
+* [5 ways to draw an outline](https://alexanderameye.github.io/notes/rendering-outlines/) by Alexander Ameye ([link to his blog](https://alexanderameye.github.io/))
 * [Baking a Realistic Renderer from Scratch and other resources for Beginners in Computer Graphics](http://c0de517e.blogspot.com/2020/11/baking-realistic-renderer-from-scratch.html) by [Angelo Pesce](https://twitter.com/kenpex) from his blog
 
 ### Marketing
