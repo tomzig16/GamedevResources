@@ -35,6 +35,7 @@ TBA
 
 ### User Interface
 
+* [Xelu's Free Controllers & Keyboard Prompts](https://thoseawesomeguys.com/prompts/) - Free control, nice looking prompots for controls ([learnt from this video](https://www.youtube.com/watch?v=d6GtGbI-now) by Mental Checkpoint]
 * [Game UI Database](https://gameuidatabase.com/index.php) - database with many screenshot of different games and their UIs
 
 <br/>
