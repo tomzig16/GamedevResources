@@ -26,7 +26,9 @@ TBA
 * [5 ways to draw an outline](https://alexanderameye.github.io/notes/rendering-outlines/) by Alexander Ameye ([link to his blog](https://alexanderameye.github.io/))
 * [Baking a Realistic Renderer from Scratch and other resources for Beginners in Computer Graphics](http://c0de517e.blogspot.com/2020/11/baking-realistic-renderer-from-scratch.html) by [Angelo Pesce](https://twitter.com/kenpex) from his blog
 * [Introduction to Decal Rendering](https://samdriver.xyz/article/decal-render-intro) - blogpost about decals by Sam Driver on his own blog-like site
+* [The Book of Shaders](https://thebookofshaders.com/) - Superb book/site about shaders by Patricio Gonzalez Vivo and Jen Lowe
 * [The Code Corsair](https://www.elopezr.com) - site/blog with different rendering examples
+* [Unity shader bible](https://learn.jettelly.com/unity-shader-bible/#buy-now) - A book about Unity shaders by Jettelly.
 
 ### Marketing
 
@@ -59,4 +61,5 @@ TBA
 
 * [Aseprite](https://www.aseprite.org/) - 2D drawing and animating tool
 * [Hacknplan](https://hacknplan.com/category/blog/) - planning tool aimed at game developers
+* [PureRef](https://www.pureref.com/) - a tool that keeps all references in a single, easy to view place
 
