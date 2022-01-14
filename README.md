@@ -63,3 +63,7 @@ TBA
 * [Hacknplan](https://hacknplan.com/category/blog/) - planning tool aimed at game developers
 * [PureRef](https://www.pureref.com/) - a tool that keeps all references in a single, easy to view place
 
+## Other
+
+* [Unity Architecture for Noobs - Game Structure](https://www.youtube.com/watch?v=tE1qH8OxO2Y) by Tarodev on youtube
+
