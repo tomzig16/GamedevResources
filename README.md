@@ -39,7 +39,9 @@ TBA
 
 * [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw) by Freya Holmér on youtube
 
-<br/>
+### Publishing and Investment
+
+* [A look at how publishers select, review, and sign indie games](https://www.gamesindustry.biz/articles/2022-02-23-a-look-at-how-publishers-select-review-and-sign-indie-games) by Alessandro Cossidente on gamesindustry.biz
 
 ### User Interface
 
