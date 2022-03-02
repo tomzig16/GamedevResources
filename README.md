@@ -16,9 +16,10 @@ TBA
 
 <hr/>
 
-## Articles and books
+## Articles, books and videos
 
 ### Game programming
+
 * [Game programming patterns](https://gameprogrammingpatterns.com/) by Robert Nystrom
 
 ### Graphics
@@ -29,6 +30,10 @@ TBA
 * [The Book of Shaders](https://thebookofshaders.com/) - Superb book/site about shaders by Patricio Gonzalez Vivo and Jen Lowe
 * [The Code Corsair](https://www.elopezr.com) - site/blog with different rendering examples
 * [Unity shader bible](https://learn.jettelly.com/unity-shader-bible/#buy-now) - A book about Unity shaders by Jettelly.
+
+### Managenent and production
+
+* [How To PLAN your Game as a Solo Developer](https://www.youtube.com/watch?v=NsMHicoZTzQ) by HeartBeast on Youtube
 
 ### Marketing
 
