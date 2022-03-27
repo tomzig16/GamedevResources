@@ -18,6 +18,10 @@ TBA
 
 ## Articles, books and videos
 
+### Game design
+
+* [3 HOURS of Game Design Analysis and Principles!](https://www.youtube.com/watch?v=kmgAFmTSFRs) by Snoman Gaming on youtube
+
 ### Game programming
 
 * [Game programming patterns](https://gameprogrammingpatterns.com/) by Robert Nystrom
