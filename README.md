@@ -30,6 +30,7 @@ TBA
 
 * [5 ways to draw an outline](https://alexanderameye.github.io/notes/rendering-outlines/) by Alexander Ameye ([link to his blog](https://alexanderameye.github.io/))
 * [Baking a Realistic Renderer from Scratch and other resources for Beginners in Computer Graphics](http://c0de517e.blogspot.com/2020/11/baking-realistic-renderer-from-scratch.html) by [Angelo Pesce](https://twitter.com/kenpex) from his blog
+* [Everyone can understand transformation matrices - and how it works](https://www.youtube.com/watch?v=ItGbib1wd0o) by Eike Decker on youtube
 * [Introduction to Decal Rendering](https://samdriver.xyz/article/decal-render-intro) - blogpost about decals by Sam Driver on his own blog-like site
 * [The Book of Shaders](https://thebookofshaders.com/) - Superb book/site about shaders by Patricio Gonzalez Vivo and Jen Lowe
 * [The Code Corsair](https://www.elopezr.com) - site/blog with different rendering examples
