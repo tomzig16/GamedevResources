@@ -21,6 +21,7 @@ TBA
 ### Game design
 
 * [3 HOURS of Game Design Analysis and Principles!](https://www.youtube.com/watch?v=kmgAFmTSFRs) by Snoman Gaming on youtube
+* [Spatial Communication in Level Design](https://youtu.be/AKeUZVikPV8?si=hr1LILWjismDp8sV) by Peter Field on youtube
 
 ### Game programming
 
